@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+downloads/
+cookies.txt
+_ui_*.png
+_ui_*.js
+_web_test.py
+_web_test.ndjson
+_cli_*
+_probe*
+_test_dl*
+_range_*
